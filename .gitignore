@@ -1,0 +1,3 @@
+patient-tracker-back/.env
+patient-tracker-back/node_modules/
+patient-tracker-front/node_modules/
