@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 const corsOptions = {
    origin: [
    'http://localhost:5173',  // Allow requests from your development server
-   'https://patient-tracker.netlify.app', // Allow requests from your Netlify deployment
+      'https://tiny-churros-d64551.netlify.app/',// Allow requests from your Netlify deployment
   // Add any other origins that should be allowed here
   ],
  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE', // Specify allowed HTTP methods
